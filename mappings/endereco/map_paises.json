@@ -1,0 +1,13 @@
+{
+  "request" : {
+    "url" : "/v1/endereco/paises",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "endereco/paises_response.json",
+    "headers": {
+      "Content-Type" : "application/json"
+    }
+  } 
+}

@@ -1,0 +1,10 @@
+{
+    "serviceMessage": {
+        "codigoRetorno": "0",
+        "mensagemRetorno": {
+            "mensagem": "Usuario e/ou Senha incorretos.",
+            "flagSucesso": false,
+            "nome": ""
+        }
+    }
+}

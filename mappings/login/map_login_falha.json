@@ -1,0 +1,16 @@
+{
+  "request" : {
+    "url" : "/v1/login",
+    "method" : "POST",
+    "bodyPatterns" : [ {
+      "contains" : "senhaerrada"
+    } ]
+  },
+  "response" : {
+    "status" : 401,
+    "bodyFileName" : "login/login_falha_response.json",
+    "headers": {
+      "Content-Type" : "application/json"
+    }
+  } 
+}

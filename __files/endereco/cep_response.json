@@ -1,0 +1,13 @@
+{
+  "serviceMessage": {
+      "codigoRetorno": 0
+  },
+  "dadosEndereco": {
+      "endereco": "PRAÇA DA REPÚBLICA",
+      "numero": "23",
+      "bairro": "REPÚBLICA",
+      "cidade": "SÃO PAULO",
+      "codigoEstado": "",
+      "estado": "SÃO PAULO"
+  }
+}

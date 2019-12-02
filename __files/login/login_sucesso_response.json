@@ -1,0 +1,10 @@
+{
+  "serviceMessage": {
+      "codigoRetorno": "0",
+      "listaMensagemRetorno": {
+          "mensagem": "Usuario e Senha corretos.",
+          "flagSucesso": true,
+          "nome": "DINO DA SILVA SAURO"
+      }
+  }
+}

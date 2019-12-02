@@ -1,0 +1,13 @@
+{
+  "request" : {
+    "url" : "/v1/endereco/estados",
+    "method" : "POST"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "endereco/estados_response.json",
+    "headers": {
+      "Content-Type" : "application/json"
+    }
+  } 
+}

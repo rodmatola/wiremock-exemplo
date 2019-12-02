@@ -1,0 +1,18 @@
+{
+  "request" : {
+    "url" : "/v1/endereco/cep",
+    "method" : "POST",
+    "headers" : {
+      "cep": {
+        "contains" : "01045-001"
+      } 
+    }
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "endereco/cep_response.json",
+    "headers": {
+      "Content-Type" : "application/json"
+    }
+  } 
+}

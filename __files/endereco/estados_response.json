@@ -1,0 +1,147 @@
+{
+  "serviceMessage": {
+    "codigoRetorno": 0
+  },
+  "listaEstado": [
+    {
+      "codigo": "1",
+      "sigla": "AC",
+      "nome": "ACRE"
+    },
+    {
+      "codigo": "2",
+      "sigla": "AL",
+      "nome": "ALAGOAS"
+    },
+    {
+      "codigo": "3",
+      "sigla": "AP",
+      "nome": "AMAPA"
+    },
+    {
+      "codigo": "4",
+      "sigla": "AM",
+      "nome": "AMAZONAS"
+    },
+    {
+      "codigo": "5",
+      "sigla": "BA",
+      "nome": "BAHIA"
+    },
+    {
+      "codigo": "6",
+      "sigla": "CE",
+      "nome": "CEARA"
+    },
+    {
+      "codigo": "7",
+      "sigla": "DF",
+      "nome": "DISTRITO FEDERAL"
+    },
+    {
+      "codigo": "8",
+      "sigla": "ES",
+      "nome": "ESPIRITO SANTO"
+    },
+    {
+      "codigo": "10",
+      "sigla": "GO",
+      "nome": "GOIAS"
+    },
+    {
+      "codigo": "11",
+      "sigla": "MA",
+      "nome": "MARANHAO"
+    },
+    {
+      "codigo": "12",
+      "sigla": "MT",
+      "nome": "MATO GROSSO"
+    },
+    {
+      "codigo": "13",
+      "sigla": "MS",
+      "nome": "MATO GROSSO DO SUL"
+    },
+    {
+      "codigo": "14",
+      "sigla": "MG",
+      "nome": "MINAS GERAIS"
+    },
+    {
+      "codigo": "15",
+      "sigla": "PA",
+      "nome": "PARA"
+    },
+    {
+      "codigo": "16",
+      "sigla": "PB",
+      "nome": "PARAIBA"
+    },
+    {
+      "codigo": "17",
+      "sigla": "PR",
+      "nome": "PARANA"
+    },
+    {
+      "codigo": "18",
+      "sigla": "PE",
+      "nome": "PERNAMBUCO"
+    },
+    {
+      "codigo": "19",
+      "sigla": "PI",
+      "nome": "PIAUI"
+    },
+    {
+      "codigo": "20",
+      "sigla": "RJ",
+      "nome": "RIO DE JANEIRO"
+    },
+    {
+      "codigo": "21",
+      "sigla": "RN",
+      "nome": "RIO GRANDE DO NORTE"
+    },
+    {
+      "codigo": "22",
+      "sigla": "RS",
+      "nome": "RIO GRANDE DO SUL"
+    },
+    {
+      "codigo": "23",
+      "sigla": "RO",
+      "nome": "RONDONIA"
+    },
+    {
+      "codigo": "9",
+      "sigla": "RR",
+      "nome": "RORAIMA"
+    },
+    {
+      "codigo": "25",
+      "sigla": "SC",
+      "nome": "SANTA CATARINA"
+    },
+    {
+      "codigo": "26",
+      "sigla": "SP",
+      "nome": "SAO PAULO"
+    },
+    {
+      "codigo": "27",
+      "sigla": "SE",
+      "nome": "SERGIPE"
+    },
+    {
+      "codigo": "24",
+      "sigla": "TO",
+      "nome": "TOCANTINS"
+    },
+    {
+      "codigo": "28",
+      "sigla": "BR",
+      "nome": "BR"
+    }
+  ]
+}
